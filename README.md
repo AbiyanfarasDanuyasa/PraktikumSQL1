@@ -1,4 +1,5 @@
 # PraktikumSQL1
+# Latihan2
 ```
 create biodata (nama varchar (15), alamat text)
 ```
