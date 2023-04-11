@@ -1,11 +1,6 @@
 # PraktikumSQL1
 # Latihan 2
-```
-NAMA         : Abiyanfaras Danuyasa
-NIM          : 312210103
-KELAS        : TI.22.A2
-MATA KULIAH  : BASIS DATA
-```
+
 # tugas praktikum
 # 1. langkah pertama buat terlebih dahulu database dengan nama latihan2.
 untuk membuat database gunakan perintah sebagai berikut:
